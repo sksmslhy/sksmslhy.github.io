@@ -16,9 +16,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-B.S. Student in the [Chung-Ang Univ](https://www.cau.ac.kr/index.do).
+I'm a B.S. student in [Computer Science & Engineering]() at [CAU](https://www.cau.ac.kr/index.do).(2019.03 ~)
 
-I'm a B.S. student in [Computer Science & Engineering]() at [CAU](https://www.cau.ac.kr/index.do).
+I'm a member of the LAIVDATA's EduTech Research & Development Center.(2022.01 ~) I research to predict the relationship between Knowledge Component.
 
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
