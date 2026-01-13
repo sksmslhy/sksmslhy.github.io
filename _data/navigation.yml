@@ -1,0 +1,11 @@
+
+  
+ # main links
+main:
+  - title: "Publication"
+    url: /publication/
+  - title: "Project"
+    url: /project/
+  - title: "Profile"
+    url: /profile/
+
