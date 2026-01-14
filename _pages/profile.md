@@ -6,34 +6,37 @@ author_profile: true
 ---
 
 Education
-- *August 2021 ~ Present*<br>
-   AI Graduate School, Chung-Ang University (advised by Prof. [Eunwoo Kim](https://vllab.cau.ac.kr/members/professor/))<br>
-- *March 2016 ~ February 2021*<br>
-   Department of Industrial Engineering, Chonnam National University<br>
+<!-- - *March 2026 ~ Present*<br>
+   Ph.D. School of Computer Science and Engineering, Chung-Ang University (advised by Prof. [Eunwoo Kim](https://vllab.cau.ac.kr/members/professor/))<br> -->
+- M.S. in Computer Science and Engineering Chung-Ang University, Seoul, Korea (advised by Prof. [Eunwoo Kim](https://vllab.cau.ac.kr/members/professor/))<br>
+   (Mar. 2024 – Present)
+- B.S. in Computer Science and Engineering Chung-Ang University, Seoul, Korea
+   (March 2019 ~ February 2024)<br>
    
 ___
 
 Research interests
-- Automated Deep Learning<br>
-- Multi-Task Learning<br>
 - Continual Learning<br>
-- Machine Unlearning<br>
-- Domain Adaptation<br>
+- Automated Deep Learning<br>
+- Robotics<br>
 
 ___
 
 Programming skills
 - Proficient with: Python, C, JAVA<br>
-- Familiar with: *Python*, *Pytorch*<br>
+- Familiar with: C++, JavaScript, R<br>
 
 ___
 
 Teaching assistant
-- Machine Learning<br>
-  *Spring 2025*<br>
-- Machine Learning<br>
-  *Spring 2023*<br>
-- Capstone Design<br>
-  *Spring 2023*<br>
 - Discrete mathematics<br>
-  *Fall 2022*
+  *Fall 2025*
+- Capstone Design<br>
+  *Fall 2024*<br>
+- Computational thinking and problem solving<br>
+  *Fall 2020*<br>
+- Understanding SW programming for problem solving<br>
+  *Fall 2021*<br>
+- Understanding SW programming for problem solving<br>
+  *Spring 2021*<br>
+
