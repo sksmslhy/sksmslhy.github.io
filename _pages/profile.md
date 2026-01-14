@@ -6,12 +6,11 @@ author_profile: true
 ---
 
 **Education**
-<!-- - *March 2026 ~ Present*<br>
-   Ph.D. School of Computer Science and Engineering, Chung-Ang University (advised by Prof. [Eunwoo Kim](https://vllab.cau.ac.kr/members/professor/))<br> -->
-- M.S. in Computer Science and Engineering Chung-Ang University, Seoul, Korea (advised by Prof. [Eunwoo Kim](https://vllab.cau.ac.kr/members/professor/))<br>
-   (Mar. 2024 – Present)
-- B.S. in Computer Science and Engineering Chung-Ang University, Seoul, Korea <br>
-   (March 2019 ~ February 2024)<br>
+- Ph.D. Student, School of Computer Science and Engineering, Chung-Ang University (Mar. 2026 - Present)
+  - Advisor: Prof. [Eunwoo Kim](https://vllab.cau.ac.kr/members/professor/)
+- M.S., School of Computer Science and Engineering, Chung-Ang University (Mar. 2024 – Feb. 2026)
+  - Advisor: Prof. [Eunwoo Kim](https://vllab.cau.ac.kr/members/professor/)
+- B.S., School of Computer Science and Engineering, Chung-Ang University (Mar. 2019 - Feb. 2024)
    
 ___
 
