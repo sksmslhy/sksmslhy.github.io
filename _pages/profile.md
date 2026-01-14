@@ -17,7 +17,7 @@ ___
 **Research interests**
 - Continual Learning<br>
 - Robotics<br>
-- Multi-modal
+- Multi-modal Learning
 
 ___
 
@@ -32,10 +32,9 @@ ___
   *Fall 2025*
 - Capstone Design<br>
   *Fall 2024*<br>
-- Computational thinking and problem solving<br>
-  *Fall 2020*<br>
 - Understanding SW programming for problem solving<br>
   *Fall 2021*<br>
 - Understanding SW programming for problem solving<br>
   *Spring 2021*<br>
-
+- Computational thinking and problem solving<br>
+  *Fall 2020*<br>
