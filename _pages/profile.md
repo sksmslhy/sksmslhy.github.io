@@ -5,30 +5,30 @@ layout: posts
 author_profile: true
 ---
 
-Education
+**Education**
 <!-- - *March 2026 ~ Present*<br>
    Ph.D. School of Computer Science and Engineering, Chung-Ang University (advised by Prof. [Eunwoo Kim](https://vllab.cau.ac.kr/members/professor/))<br> -->
 - M.S. in Computer Science and Engineering Chung-Ang University, Seoul, Korea (advised by Prof. [Eunwoo Kim](https://vllab.cau.ac.kr/members/professor/))<br>
    (Mar. 2024 – Present)
-- B.S. in Computer Science and Engineering Chung-Ang University, Seoul, Korea
+- B.S. in Computer Science and Engineering Chung-Ang University, Seoul, Korea <br>
    (March 2019 ~ February 2024)<br>
    
 ___
 
-Research interests
+**Research interests**
 - Continual Learning<br>
-- Automated Deep Learning<br>
 - Robotics<br>
+- Multi-modal
 
 ___
 
-Programming skills
+**Programming skills**
 - Proficient with: Python, C, JAVA<br>
 - Familiar with: C++, JavaScript, R<br>
 
 ___
 
-Teaching assistant
+**Teaching assistant**
 - Discrete mathematics<br>
   *Fall 2025*
 - Capstone Design<br>
