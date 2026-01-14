@@ -20,6 +20,9 @@ Jiho Lee, <U>Hayun Lee</U>, Jonghyeon Kim, Kyungjae Lee, and Eunwoo Kim <br>
 Hyunhee Choi, <U>Hayun Lee</U>, and Minjeong Lee<br>
 *Generative Intelligence and Intelligent Tutoring Systems (ITS)*, 2024.<br>
 
+
+## International Journal
+___
 **[Optimal knowledge component extracting model for knowledge-concept graph completion in education](https://ieeexplore.ieee.org/abstract/document/10043668)<br>**
 Hyunhee Choi, <U>Hayun Lee</U>, and Minjeong Lee<br>
 *IEEE Access*, 2023.<br>
