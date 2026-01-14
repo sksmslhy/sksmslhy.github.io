@@ -16,7 +16,7 @@ ___
 
 **Research interests**
 - Continual Learning<br>
-- Robotics<br>
+- Robot Learning<br>
 - Multi-modal Learning
 
 ___
