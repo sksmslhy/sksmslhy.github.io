@@ -8,16 +8,23 @@ title: ''
 
 ## International Conference
 ___
-**[RainbowPrompt: Diversity-Enhanced Prompt-Evolving for Continual Learning](http://arxiv.org/abs/2507.22553)<br>**
-Kiseong Hong, Gyeong-Hyeon Kim, and Eunwoo Kim<br>
-*In Proc. of the IEEE International Conference on Computer Vision (ICCV)*, Oct. 2025. **[[code]](https://github.com/Kiseong0753/RainbowPrompt)<br>**
+**[Self-Corrective Task Planning by Inverse Prompting with Large Language Models](https://arxiv.org/pdf/2503.07317)<br>**
+Jiho Lee, <U>Hayun Lee</U>, Jonghyeon Kim, Kyungjae Lee, and Eunwoo Kim <br>
+*IEEE International Conference on Robotics and Automation (ICRA)*, 2025.<br>
 
 **[Dynamically Managing a Prompt Pool via Self-Enhancement in Continual Learning](https://openreview.net/forum?id=GI6gHATAMt)<br>**
-Hayun Lee\*, Kiseong Hong\*, Hwanhee Lee, Sungho Suh, and Eunwoo Kim<br>
-*Conference on Neural Information Processing Systems (NeurIPS) Workshop on Adaptive Foundation Models*, Dec. 2024.<br>
-(\* indicates equal contribution)
+<U>Hayun Lee</U>\*, Kiseong Hong\*, Hwanhee Lee, Sungho Suh, and Eunwoo Kim<br>
+*Conference on Neural Information Processing Systems (NeurIPS) Workshop on Adaptive Foundation Models*, 2024.<br>
 
-## International Journal
+**[Enhancement of Knowledge Concept Maps Using Deductive Reasoning with Educational Data](https://link.springer.com/chapter/10.1007/978-3-031-63028-6_9)**<br>
+Hyunhee Choi, <U>Hayun Lee</U>, and Minjeong Lee<br>
+*Generative Intelligence and Intelligent Tutoring Systems (ITS)*, 2024.<br>
+
+**[Optimal knowledge component extracting model for knowledge-concept graph completion in education](https://ieeexplore.ieee.org/abstract/document/10043668)<br>**
+Hyunhee Choi, <U>Hayun Lee</U>, and Minjeong Lee<br>
+*IEEE Access*, 2023.<br>
+
+<!-- ## International Journal
 ___
 **[Exploration and Exploitation in Continual Learning](https://www.sciencedirect.com/science/article/pii/S0893608025003235)<br>**
 Kiseong Hong, Hyundong Jin, Sungho Suh, and Eunwoo Kim<br>
@@ -26,21 +33,11 @@ Kiseong Hong, Hyundong Jin, Sungho Suh, and Eunwoo Kim<br>
 **[GhostNeXt: Rethinking Module Configurations for Efficient Model Design](https://www.mdpi.com/2076-3417/13/5/3301)<br>**
 Kiseong Hong, Gyeong-Hyeon Kim, and Eunwoo Kim<br>
 *Applied Sciences*, vol. 13, no.5, Mar. 2023.
-
+ -->
 
 ## Domestic Conferece
 ___
-**Information filters for video and natural language understanding<br>**
-Hyunjoon Koo, JungKyoo Shin, Kiseong Hong, and Eunwoo Kim<br>
-*KRoC*, Feb. 2024.
-
-
-**Exploration of task-specific network quota for continual learning<br>**
-Kiseong Hong and Eunwoo Kim<br>
-*IEIE*, June. 2023.
-
-
-**Task-Aware Dynamic Networks for Multi-Task Learning<br>**
-Kiseong Hong, Changseong Kim, and Eunwoo Kim<br>
-*ICEIC*, 2023.
+**[On adaptive learning paths using hidden Markov models]<br>**
+Hyunhee Choi, Yunji Lee, and <U>Hayun Lee</U><br>
+*Journal of the Korean Data Analysis Society (JKDAS)*, 2023.
 
