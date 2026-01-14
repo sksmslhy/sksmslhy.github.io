@@ -33,8 +33,6 @@ ___
 - Capstone Design<br>
   *Fall 2024*<br>
 - Understanding SW programming for problem solving<br>
-  *Fall 2021*<br>
-- Understanding SW programming for problem solving<br>
-  *Spring 2021*<br>
+  *Spring 2021*, *Fall 2021*<br>
 - Computational thinking and problem solving<br>
   *Fall 2020*<br>
