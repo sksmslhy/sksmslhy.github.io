@@ -37,7 +37,7 @@ Kiseong Hong, Gyeong-Hyeon Kim, and Eunwoo Kim<br>
 
 ## Domestic Conferece
 ___
-**[On adaptive learning paths using hidden Markov models]<br>**
+**On adaptive learning paths using hidden Markov models<br>**
 Hyunhee Choi, Yunji Lee, and <U>Hayun Lee</U><br>
 *Journal of the Korean Data Analysis Society (JKDAS)*, 2023.
 
