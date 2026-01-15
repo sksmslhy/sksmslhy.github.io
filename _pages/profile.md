@@ -26,7 +26,7 @@ ___
 
 **Programming skills**
 - Proficient with: Python, C, JAVA<br>
-- Familiar with: C++, JavaScript, R<br>
+- Familiar with: C++, JavaScript, SQL, R<br>
 
 ___
 
