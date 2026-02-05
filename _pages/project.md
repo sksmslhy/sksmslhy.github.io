@@ -8,7 +8,7 @@ title: ''
 
 ## Project Lists 
 ___
-AI‑based Fingerprint Anlysis<br>
+AI‑based Fingerprint Analysis<br>
 - Funded by Doosan Enerbility<br>
 - *Jun. 2024 ~ Jun. 2025<br>*
 

@@ -23,14 +23,16 @@ ___
 - Multi-modal Learning
 
 ___
-
+<!-- 
 **Programming skills**
 - Proficient with: Python, C, JAVA<br>
 - Familiar with: C++, JavaScript, SQL, R<br>
 
-___
+___ -->
 
 **Teaching assistant**
+- Machine Learning<br>
+  *Spring 2026*
 - Discrete mathematics<br>
   *Fall 2025*
 - Capstone Design<br>
