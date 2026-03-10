@@ -15,7 +15,12 @@ I am dedicated to advancing research in these domains and strongly believe in th
 
 ## Contact
 ___
-please feel free to contact me <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWw2MTVzYmlhdzhrcm1wanN6Y2V2eDh3ZTQwNTZtOGVma2p5d2hiMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/j5cGfOUYULIOcKZtrh/giphy.gif" height="1em">
+Please feel free to contact me 
+<img
+  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWw2MTVzYmlhdzhrcm1wanN6Y2V2eDh3ZTQwNTZtOGVma2p5d2hiMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/j5cGfOUYULIOcKZtrh/giphy.gif"
+  style="height: 1em; width: auto; vertical-align: middle;"
+  alt="emoji"
+/>
 
 [![Email](https://img.shields.io/badge/Email-hayun0406%40cau.ac.kr-red?style=flat-square&logo=gmail)](mailto:hayun0406@cau.ac.kr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hayun-lee)
