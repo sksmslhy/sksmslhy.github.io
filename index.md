@@ -9,7 +9,7 @@ layout: posts
 
 ## About me
 ___
-I am currently a Ph.D. student at [VLLAB](https://vllab.cau.ac.kr/), Chung-Ang University, advised by Prof. [Eunwoo Kim](https://vllab.cau.ac.kr/members/professor/). My research primarily focuses on deep learning and computer vision. Specifically, I have a strong interest in continual learning, robotics, and their applications.
+I am currently a Ph.D. student at [AI & Robotics Lab](https://ai-robotics-lab.github.io/), Chung-Ang University, advised by Prof. [Eunwoo Kim](https://ai-robotics-lab.github.io/members/professor/). My research primarily focuses on deep learning and computer vision. Specifically, I have a strong interest in continual learning, robotics, and their applications.
 
 I am dedicated to advancing research in these domains and strongly believe in the value of collaboration. I am always eager to connect with researchers from diverse backgrounds to exchange ideas or explore potential synergies. Please feel free to reach out to me for any discussions.
 
