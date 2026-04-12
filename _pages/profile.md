@@ -20,7 +20,7 @@ ___
 **Research interests**
 - Continual Learning<br>
 - Robot Learning<br>
-- Multi-modal Learning
+- Machine Unlearning
 
 ___
 <!-- 
