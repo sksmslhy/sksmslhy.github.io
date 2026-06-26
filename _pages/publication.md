@@ -10,7 +10,7 @@ title: ''
 ___
 **[Self-Corrective Task Planning by Inverse Prompting with Large Language Models](https://arxiv.org/pdf/2503.07317)<br>**
 Jiho Lee, <U>Hayun Lee</U>, Jonghyeon Kim, Kyungjae Lee, and Eunwoo Kim <br>
-*IEEE International Conference on Robotics and Automation (ICRA)*, 2025.<br>
+*IEEE International Conference on Robotics and Automation (ICRA)*, 2025. [Project](https://inverseprompt.github.io/)<br>
 
 **[Dynamically Managing a Prompt Pool via Self-Enhancement in Continual Learning](https://openreview.net/forum?id=GI6gHATAMt)<br>**
 <U>Hayun Lee</U>\*, Kiseong Hong\*, Hwanhee Lee, Sungho Suh, and Eunwoo Kim<br>
