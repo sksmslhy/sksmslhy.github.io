@@ -20,7 +20,8 @@ ___
 **Research interests**
 - Continual Learning<br>
 - Robot Learning<br>
-- Machine Unlearning
+- Federated Learning<br>
+- Personalization
 
 ___
 <!-- 
